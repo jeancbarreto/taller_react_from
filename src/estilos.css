@@ -1,0 +1,19 @@
+.CajaDash{
+    
+    display: inline-block;
+    /*background: #eeeeee;*/
+   
+}
+.CajaGrafico{
+    width: 400px;
+    height: 200px;
+    border: 10px;
+    float: left;
+}
+.CajaGraficoDer{
+    width: 400px;
+    height: 200px;
+    border: 10px;
+    float: right;
+}
+
